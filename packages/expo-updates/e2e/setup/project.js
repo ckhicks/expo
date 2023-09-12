@@ -124,6 +124,7 @@ async function copyCommonFixturesToProject(projectRoot, appJsFileName, repoRoot)
       'eas.json',
       'eas-hooks',
       'e2e',
+      'assets',
       'scripts',
     ],
     {
